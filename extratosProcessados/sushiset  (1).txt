@@ -1,0 +1,301 @@
+================================================================================================================================================================
+Extrato conta corrente                                                                                                                       G331021204578981014
+                                                                                                                                             02/10/2019 12:17:39
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cliente - Cliente atual
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Agência                       80-9
+Conta corrente                83882-9 RESTAURANTE TRADICAO SUSH
+Período do extrato            
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lançamentos
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Dt. movimento  Dt. balancete    Ag. origem        Lote     Histórico                                    Documento         Valor R$            Saldo
+   30/08/2019                       0000          00000     000 Saldo Anterior                                                           24.808,40 C
+   02/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.180       1.179,58 C      25.987,98 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   02/09/2019                       0000          14175     976 TED-Pagamento Fornecedor                33.780.630          17,38 C      26.005,36 C
+                              610 0000 78626983000163 BVR-REEMBOLSO
+   02/09/2019                       0000          14024     900 Stone Pagamento Débito             238.947.772.002       5.238,59 C      31.243,95 C
+   02/09/2019                       0000          14024     900 Stone Pagamento Débito             238.947.792.001       6.840,86 C      38.084,81 C
+   02/09/2019                       0000          14024     900 Stone Pagamento Débito             238.947.806.027       1.494,14 C      39.578,95 C
+   02/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.420.900.002.967      10.626,18 C      50.205,13 C
+   02/09/2019                       0000          13105     109 Pagamento de Boleto                         90.201         135,00 D      50.070,13 C
+                              SKYTEF
+   02/09/2019                       0000          13105     109 Pagamento de Boleto                         90.202       4.145,16 D      45.924,97 C
+                              J. ARAUJO DISTRIBUIDORA , IMPORTACAO E
+   02/09/2019                       0000          13105     109 Pagamento de Boleto                         90.203       1.814,40 D      44.110,57 C
+                              SANDRO JOSE DE OLIVEIRA 12779460784
+   02/09/2019                       0000          13105     109 Pagamento de Boleto                         90.204       3.340,56 D      40.770,01 C
+                              ALELO
+   03/09/2019                       0000          14134     612 Recebimento Fornecedor                     108.588          62,67 C      40.832,68 C
+                              GREEN CARD SA REFEICOES COM E SERVI
+   03/09/2019                       0000          14134     612 Recebimento Fornecedor                     108.634         217,13 C      41.049,81 C
+                              GREEN CARD SA REFEICOES COM E SERVI
+   03/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.480         457,56 C      41.507,37 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   03/09/2019                       0000          14024     900 Stone Pagamento Débito             239.909.821.027         556,93 C      42.064,30 C
+   03/09/2019                       0000          14024     900 Stone Pagamento Débito             239.909.851.002       1.122,49 C      43.186,79 C
+   03/09/2019                       0000          14024     900 Stone Pagamento Débito             239.910.137.001       1.775,22 C      44.962,01 C
+   03/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.450.900.002.176       4.632,72 C      49.594,73 C
+   03/09/2019                       0000          13105     109 Pagamento de Boleto                         90.301         475,40 D      49.119,33 C
+                              TOP ALTO
+   03/09/2019                       0000          13105     109 Pagamento de Boleto                         90.302       3.069,41 D      46.049,92 C
+                              JBS S/A
+   04/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.580         272,78 C      46.322,70 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   04/09/2019                       0000          14175     976 Cessão Créd Liquid Princ                33.450.487       1.129,64 C      47.452,34 C
+                              082 0000  7679404000100 BANCO TOPAZIO
+   04/09/2019                       0000          14024     900 Stone Pagamento Débito             240.725.092.002         748,03 C      48.200,37 C
+   04/09/2019                       0000          14024     900 Stone Pagamento Débito             240.725.124.027         246,42 C      48.446,79 C
+   04/09/2019                       0000          14024     900 Stone Pagamento Débito             240.725.127.001       1.569,60 C      50.016,39 C
+   04/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.461.000.007.988       2.364,82 C      52.381,21 C
+   04/09/2019                       0000          13105     109 Pagamento de Boleto                         90.401       7.113,59 D      45.267,62 C
+                              ACQUA VIVA COM INTER LTDA
+   05/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.680          55,38 C      45.323,00 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   05/09/2019                       0000          14175     976 TED-Pag Fornecedores                     4.700.387       1.158,62 C      46.481,62 C
+                              033 0204 69034668000156 SODEXO PASS DO
+   05/09/2019                       0000          14024     900 Stone Pagamento Débito             241.542.535.027         387,91 C      46.869,53 C
+   05/09/2019                       0000          14024     900 Stone Pagamento Débito             241.542.547.002         994,42 C      47.863,95 C
+   05/09/2019                       0000          14024     900 Stone Pagamento Débito             241.542.549.001       1.737,21 C      49.601,16 C
+   05/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.470.900.003.102         629,43 C      50.230,59 C
+   05/09/2019                       0000          13105     109 Pagamento de Boleto                         90.501         152,72 D      50.077,87 C
+                              GERENCIANET PAGAMENTOS DO BRAS
+   05/09/2019                       0000          13105     109 Pagamento de Boleto                         90.502         110,00 D      49.967,87 C
+                              GERENCIANET PAGAMENTOS DO BRAS
+   05/09/2019                       0000          13105     109 Pagamento de Boleto                         90.503         293,98 D      49.673,89 C
+                              TOP ALTO
+   05/09/2019                       0000          13105     109 Pagamento de Boleto                         90.504         477,00 D      49.196,89 C
+                              NOVA COQUEIRO DE ALIM LTDA
+   05/09/2019                       0000          13113     435 Tarifa Pacote de Serviços      892.481.000.573.201         261,00 D      48.935,89 C
+                              Cobrança referente 05/09/2019
+   05/09/2019                       1981          13079     102 Cheque Compensado                          850.425         667,00 D      48.268,89 C
+   06/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.780         191,07 C      48.459,96 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   06/09/2019                       0000          14024     900 Stone Pagamento Débito             242.388.275.027         632,90 C      49.092,86 C
+   06/09/2019                       0000          14024     900 Stone Pagamento Débito             242.388.295.002       1.414,86 C      50.507,72 C
+   06/09/2019                       0000          14024     900 Stone Pagamento Débito             242.388.300.001       1.799,51 C      52.307,23 C
+   06/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.480.900.003.081       2.451,69 C      54.758,92 C
+   06/09/2019                       0000          13134     250 Folha de Pagamento                           2.885       7.329,51 D      47.429,41 C
+   06/09/2019                       0000          13105     375 Impostos                                    90.601       1.622,34 D      45.807,07 C
+                              FGTS ARRECADACAO GRF
+   06/09/2019                       0000          13113     170 Tar Pag Salár Créd Conta       812.490.903.904.964          35,00 D      45.772,07 C
+                              Cobrança referente 06/09/2019
+   09/09/2019                       0000          14134     612 Recebimento Fornecedor                     924.880         767,47 C      46.539,54 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   09/09/2019                       0000          14175     976 TED-Crédito em Conta                     7.434.610     100.000,00 C     146.539,54 C
+                              237 0542     3035403708 LUIZ OSVALDO B
+   09/09/2019                       0000          14175     976 TED-Crédito em Conta                     7.526.140      55.000,00 C     201.539,54 C
+                              237 7130    11679579703 LUIZ AUGUSTO G
+   09/09/2019                       0000          14175     976 TED-Pagamento Fornecedor                34.214.150         163,18 C     201.702,72 C
+                              610 0000 78626983000163 BVR-REEMBOLSO
+   09/09/2019                       0000          14024     900 Stone Pagamento Débito             243.446.081.002       5.208,47 C     206.911,19 C
+   09/09/2019                       0000          14024     900 Stone Pagamento Débito             243.446.130.001       7.031,23 C     213.942,42 C
+   09/09/2019                       0000          14024     900 Stone Pagamento Débito             243.446.131.027       2.312,40 C     216.254,82 C
+   09/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.491.100.002.934      11.369,73 C     227.624,55 C
+   09/09/2019                       0000          13105     109 Pagamento de Boleto                         90.901       3.139,39 D     224.485,16 C
+                              J. ARAUJO DISTRIBUIDORA , IMPORTACAO E
+   09/09/2019                       0000          13105     109 Pagamento de Boleto                         90.902         114,40 D     224.370,76 C
+                              FED EMPR TRANSP PASSAG EST RJ
+   09/09/2019                       0000          13105     109 Pagamento de Boleto                         90.903       1.814,40 D     222.556,36 C
+                              SANDRO JOSE DE OLIVEIRA 12779460784
+   10/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.180         479,30 C     223.035,66 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   10/09/2019                       0000          14024     900 Stone Pagamento Débito             244.381.480.002         514,03 C     223.549,69 C
+   10/09/2019                       0000          14024     900 Stone Pagamento Débito             244.381.506.027         828,17 C     224.377,86 C
+   10/09/2019                       0000          14024     900 Stone Pagamento Débito             244.381.510.001       1.511,58 C     225.889,44 C
+   10/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.520.900.002.276       5.327,97 C     231.217,41 C
+   10/09/2019                       0000          13105     109 Pagamento de Boleto                         91.001       1.396,04 D     229.821,37 C
+                              TOP ALTO
+   10/09/2019                       0000          13105     109 Pagamento de Boleto                         91.002         858,36 D     228.963,01 C
+                              FRIGORIFICO JAHU LTDA
+   10/09/2019                       0000          13105     109 Pagamento de Boleto                         91.003       5.229,94 D     223.733,07 C
+                              JBS S/A
+   10/09/2019                       0000          13105     109 Pagamento de Boleto                         91.004       3.463,60 D     220.269,47 C
+                              ACQUA VIVA COM INTER LTDA
+   10/09/2019                       0000          13013     364 BB Consórcio - Prestação                    23.068       1.911,10 D     218.358,37 C
+                              BB ADMIN CONSORCIOS SA
+   11/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.280         258,46 C     218.616,83 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   11/09/2019                       0000          14175     976 Cessão Créd Liquid Princ                33.488.410       1.630,41 C     220.247,24 C
+                              082 0000  7679404000100 BANCO TOPAZIO
+   11/09/2019                       0000          14024     900 Stone Pagamento Débito             245.200.840.002         890,62 C     221.137,86 C
+   11/09/2019                       0000          14024     900 Stone Pagamento Débito             245.200.865.027         549,95 C     221.687,81 C
+   11/09/2019                       0000          14024     900 Stone Pagamento Débito             245.200.982.001       2.029,39 C     223.717,20 C
+   11/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.530.900.002.234       2.254,10 C     225.971,30 C
+   12/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.380          51,68 C     226.022,98 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   12/09/2019                       0000          14175     976 TED-Pag Fornecedores                     5.081.742       1.556,75 C     227.579,73 C
+                              033 0204 69034668000156 SODEXO PASS DO
+   12/09/2019                       0000          14024     900 Stone Pagamento Débito             246.022.556.027         523,07 C     228.102,80 C
+   12/09/2019                       0000          14024     900 Stone Pagamento Débito             246.022.581.001       1.298,48 C     229.401,28 C
+   12/09/2019                       0000          14024     900 Stone Pagamento Débito             246.022.582.002         660,33 C     230.061,61 C
+   12/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.540.900.003.213         474,05 C     230.535,66 C
+   12/09/2019                       0000          13105     109 Pagamento de Boleto                         91.201      15.608,58 D     214.927,08 C
+                              FRIGORIFICO JAHU EIRELI
+   12/09/2019                       1981          13079     102 Cheque Compensado                          850.426       2.134,20 D     212.792,88 C
+   13/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.480         320,79 C     213.113,67 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   13/09/2019                       0000          14024     900 Stone Pagamento Débito             246.873.323.001       1.140,83 C     214.254,50 C
+   13/09/2019                       0000          14024     900 Stone Pagamento Débito             246.873.417.027         218,03 C     214.472,53 C
+   13/09/2019                       0000          14024     900 Stone Pagamento Débito             246.873.428.002         602,52 C     215.075,05 C
+   13/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.550.900.002.993       3.026,96 C     218.102,01 C
+   13/09/2019                       0000          13134     250 Folha de Pagamento                           1.365       7.139,00 D     210.963,01 C
+   13/09/2019                       0000          13113     170 Tar Pag Salár Créd Conta       822.560.903.857.568          45,50 D     210.917,51 C
+                              Cobrança referente 13/09/2019
+   16/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.580       1.039,85 C     211.957,36 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   16/09/2019                       0000          14175     976 TED-Pagamento Fornecedor                34.274.440         331,58 C     212.288,94 C
+                              610 0000 78626983000163 BVR-REEMBOLSO
+   16/09/2019                       0000          14024     900 Stone Pagamento Débito             247.991.138.002       3.218,27 C     215.507,21 C
+   16/09/2019                       0000          14024     900 Stone Pagamento Débito             247.991.201.027       1.797,93 C     217.305,14 C
+   16/09/2019                       0000          14024     900 Stone Pagamento Débito             247.991.377.001       7.647,74 C     224.952,88 C
+   16/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.560.900.003.249      10.231,87 C     235.184,75 C
+   16/09/2019                       0000          13105     109 Pagamento de Boleto                         91.601       3.435,11 D     231.749,64 C
+                              ITAU UNIBANCO S.A.
+   16/09/2019                       0000          13105     109 Pagamento de Boleto                         91.602       1.814,40 D     229.935,24 C
+                              SANDRO JOSE DE OLIVEIRA 12779460784
+   16/09/2019                       0000          13105     109 Pagamento de Boleto                         91.603       9.644,27 D     220.290,97 C
+                              BANCO DO BRASIL
+   16/09/2019                       0000          13105     109 Pagamento de Boleto                         91.604       6.010,68 D     214.280,29 C
+                              BANCO ITAUCARD S.A.
+   17/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.880         116,35 C     214.396,64 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   17/09/2019                       0000          14024     900 Stone Pagamento Débito             248.834.885.002         890,66 C     215.287,30 C
+   17/09/2019                       0000          14024     900 Stone Pagamento Débito             248.834.905.027         493,78 C     215.781,08 C
+   17/09/2019                       0000          14024     900 Stone Pagamento Débito             248.834.927.001       1.260,43 C     217.041,51 C
+   17/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.590.900.002.153       3.374,61 C     220.416,12 C
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.701         858,37 D     219.557,75 C
+                              CAIXA ECONOMICA FEDERAL
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.702       1.703,85 D     217.853,90 C
+                              BANCO BRADESCO S.A.
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.703       2.549,35 D     215.304,55 C
+                              BANCO GUANABARA S/A
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.704       4.582,80 D     210.721,75 C
+                              BANCO GUANABARA S/A
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.705       4.770,41 D     205.951,34 C
+                              ITAU UNIBANCO S.A.
+   17/09/2019                       0000          13105     109 Pagamento de Boleto                         91.706         190,77 D     205.760,57 C
+                              BANCO GUANABARA S/A
+   18/09/2019                       0000          14134     612 Recebimento Fornecedor                     109.413          25,95 C     205.786,52 C
+                              GREEN CARD SA REFEICOES COM E SERVI
+   18/09/2019                       0000          14134     612 Recebimento Fornecedor                     109.455         620,03 C     206.406,55 C
+                              GREEN CARD SA REFEICOES COM E SERVI
+   18/09/2019                       0000          14134     612 Recebimento Fornecedor                     925.980         227,11 C     206.633,66 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   18/09/2019                       0000          14175     976 Cessão Créd Liquid Princ                33.509.275       1.371,93 C     208.005,59 C
+                              082 0000  7679404000100 BANCO TOPAZIO
+   18/09/2019                       0000          14024     900 Stone Pagamento Débito             249.760.611.002         969,57 C     208.975,16 C
+   18/09/2019                       0000          14024     900 Stone Pagamento Débito             249.760.646.027         667,31 C     209.642,47 C
+   18/09/2019                       0000          14024     900 Stone Pagamento Débito             249.760.671.001       1.811,09 C     211.453,56 C
+   18/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.600.900.003.125       2.354,22 C     213.807,78 C
+   18/09/2019                       0000          13105     109 Pagamento de Boleto                         91.801       2.233,00 D     211.574,78 C
+                              ITAU UNIBANCO S.A.
+   19/09/2019                       0000          14175     976 TED-Pag Fornecedores                       545.866         808,50 C     212.383,28 C
+                              033 0204 69034668000156 SODEXO PASS DO
+   19/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.080         411,10 C     212.794,38 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   19/09/2019                       0000          14024     900 Stone Pagamento Débito             250.280.650.001       1.254,67 C     214.049,05 C
+   19/09/2019                       0000          14024     900 Stone Pagamento Débito             250.280.696.002         815,37 C     214.864,42 C
+   19/09/2019                       0000          14024     900 Stone Pagamento Débito             250.280.746.027         302,90 C     215.167,32 C
+   19/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.610.900.002.657       3.238,07 C     218.405,39 C
+   19/09/2019                       0000          13105     109 Pagamento de Boleto                         91.901       1.450,90 D     216.954,49 C
+                              BANCO BRADESCO S.A.
+   19/09/2019                       0000          13105     109 Pagamento de Boleto                         91.902         145,80 D     216.808,69 C
+                              CAIXA ECONOMICA FEDERAL
+   19/09/2019                       0000          13105     109 Pagamento de Boleto                         91.903         538,00 D     216.270,69 C
+                              SINDICATO DOS EMPREGADOS TURISMO HOSPI
+   20/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.180         118,53 C     216.389,22 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   20/09/2019                       0000          14024     900 Stone Pagamento Débito             251.451.963.027         755,17 C     217.144,39 C
+   20/09/2019                       0000          14024     900 Stone Pagamento Débito             251.452.013.002       1.340,06 C     218.484,45 C
+   20/09/2019                       0000          14024     900 Stone Pagamento Débito             251.452.019.001       1.228,04 C     219.712,49 C
+   20/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.620.900.003.076       2.140,41 C     221.852,90 C
+   20/09/2019                       0000          13105     375 Impostos                                    92.001      23.268,94 D     198.583,96 C
+                              DAS - SIMPLES NACIONAL
+   20/09/2019                       0000          13105     375 Impostos                                    92.002       1.633,68 D     196.950,28 C
+                              GPS - CODIGO DE BARRAS
+   20/09/2019                       1981          13079     102 Cheque Compensado                          850.427       1.817,00 D     195.133,28 C
+   23/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.280         551,33 C     195.684,61 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   23/09/2019                       0000          14175     976 TED-Pagamento Fornecedor                33.876.725          25,55 C     195.710,16 C
+                              610 0000 78626983000163 BVR-REEMBOLSO
+   23/09/2019                       0000          14024     732 Cielo Vendas Débito                     65.084.304          22,71 C     195.732,87 C
+   23/09/2019                       0000          14024     900 Stone Pagamento Débito             252.637.673.002       4.942,83 C     200.675,70 C
+   23/09/2019                       0000          14024     900 Stone Pagamento Débito             252.637.727.027       1.599,80 C     202.275,50 C
+   23/09/2019                       0000          14024     900 Stone Pagamento Débito             252.637.941.001       6.767,53 C     209.043,03 C
+   23/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.631.000.007.494       9.738,98 C     218.782,01 C
+   24/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.580         222,08 C     219.004,09 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   24/09/2019                       0000          14024     732 Cielo Vendas Débito                     65.084.304          45,79 C     219.049,88 C
+   24/09/2019                       0000          14024     900 Stone Pagamento Débito             253.367.296.001       1.742,51 C     220.792,39 C
+   24/09/2019                       0000          14024     900 Stone Pagamento Débito             253.367.658.002         613,40 C     221.405,79 C
+   24/09/2019                       0000          14024     900 Stone Pagamento Débito             253.367.670.027         732,57 C     222.138,36 C
+   24/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.660.900.002.306       4.783,27 C     226.921,63 C
+   24/09/2019                       0000          13105     109 Pagamento de Boleto                         92.401       2.549,35 D     224.372,28 C
+                              BANCO GUANABARA S/A
+   24/09/2019                       0000          13105     109 Pagamento de Boleto                         92.402       4.582,80 D     219.789,48 C
+                              BANCO GUANABARA S/A
+   24/09/2019                       0000          13105     109 Pagamento de Boleto                         92.403       8.039,20 D     211.750,28 C
+                              ACQUA VIVA COM INTER LTDA
+   25/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.680         199,98 C     211.950,26 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   25/09/2019                       0000          14175     976 Cessão Créd Liquid Princ                33.425.566       1.577,40 C     213.527,66 C
+                              082 0000  7679404000100 BANCO TOPAZIO
+   25/09/2019                       0000          14024     900 Stone Pagamento Débito             254.140.192.027         343,09 C     213.870,75 C
+   25/09/2019                       0000          14024     900 Stone Pagamento Débito             254.140.206.001       1.224,09 C     215.094,84 C
+   25/09/2019                       0000          14024     900 Stone Pagamento Débito             254.140.253.002       1.003,31 C     216.098,15 C
+   25/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.671.000.006.862       1.862,54 C     217.960,69 C
+   26/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.780         155,06 C     218.115,75 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   26/09/2019                       0000          14175     976 TED-Pag Fornecedores                     5.355.263         868,98 C     218.984,73 C
+                              033 0204 69034668000156 SODEXO PASS DO
+   26/09/2019                       0000          14024     900 Stone Pagamento Débito             255.077.756.001       1.504,92 C     220.489,65 C
+   26/09/2019                       0000          14024     900 Stone Pagamento Débito             255.077.757.027         646,54 C     221.136,19 C
+   26/09/2019                       0000          14024     900 Stone Pagamento Débito             255.077.834.002         894,80 C     222.030,99 C
+   26/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.680.900.002.910       2.412,37 C     224.443,36 C
+   26/09/2019                       0000          13105     109 Pagamento de Boleto                         92.601       3.002,00 D     221.441,36 C
+                              FRIGORIFICO JAHU LTDA
+   26/09/2019                       0000          13105     109 Pagamento de Boleto                         92.602       1.684,71 D     219.756,65 C
+                              DISFRIRIO DISTRIBUIDORA DE FRI
+   27/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.880          55,50 C     219.812,15 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   27/09/2019                       0000          14024     900 Stone Pagamento Débito             256.015.108.027         390,77 C     220.202,92 C
+   27/09/2019                       0000          14024     900 Stone Pagamento Débito             256.015.139.002         798,23 C     221.001,15 C
+   27/09/2019                       0000          14024     900 Stone Pagamento Débito             256.015.175.001       1.535,60 C     222.536,75 C
+   27/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.690.900.002.913       1.605,17 C     224.141,92 C
+   27/09/2019                       1981          13079     102 Cheque Compensado                          850.428       1.942,00 D     222.199,92 C
+   30/09/2019                       0000          14134     612 Recebimento Fornecedor                     926.980       1.199,47 C     223.399,39 C
+                              COMPANHIA BRASILEIRA DE SOLUCOES E
+   30/09/2019                       0000          14024     732 Cielo Vendas Débito                     65.084.304         458,37 C     223.857,76 C
+   30/09/2019                       0000          14024     900 Stone Pagamento Débito             256.958.756.002       3.922,05 C     227.779,81 C
+   30/09/2019                       0000          14024     900 Stone Pagamento Débito             256.958.838.001       5.681,72 C     233.461,53 C
+   30/09/2019                       0000          14024     900 Stone Pagamento Débito             256.958.839.027       1.429,91 C     234.891,44 C
+   30/09/2019                       0000          14024     900 Stone Pagamento Crédito        102.701.000.006.833      10.426,17 C     245.317,61 C
+   30/09/2019                       0000          13105     393 TED Transf.Eletr.Disponiv                   93.001      50.000,00 D     195.317,61 C
+                              237 3403 008774264000104 RESTAURANTE T
+   30/09/2019                       0000          00000     999 S A L D O                                              195.317,61 C     195.317,61 C
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  - Limite Cheque Especial                                           11.000,00 C
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                13,45
+Taxa Cheque Especial AO ANO                                               354,63
+DATA VENCIMENTO CHEQUE ESPECIAL                                       20/12/2020
+Custo Efetivo Total-CET ao Mês                                             13,95
+Custo Efetivo Total-CET ao Ano                                            389,96
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+Valor total devido                                 11.055,33                   -
+Valor liberado                                     11.000,00               99,50
+Despesas vinculadas                                                             
+ -Tributos IOF                                         55,33                0,50
+ -Tarifa                                                0,00                0,00
+(*) Simulação para utilização única e integral do limite por 30 dias.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+               ------------------------------------------------
+               
+               
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Transação efetuada com sucesso por: JA696878 MONIQUE SOARES CHRIST LISBOA
